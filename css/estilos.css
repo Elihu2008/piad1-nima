@@ -415,9 +415,7 @@ header .container .hamb{
         padding-bottom: 20px;
     }
 
-
-
-    /* PARTE 03: SERVICIOS - GALERIA - CONTACTO - FOOTER */
+/*SERVICIOS - GALERIA - CONTACTO - FOOTER */
     #servicios.seccion{
         margin-bottom: 10px;
         padding-top: 30px;
@@ -468,10 +466,3 @@ header .container .hamb{
     }
 
 }
-
-/* Ajustes para lectura y navegacion */
-#contactanos form label{ display:block; color:white; font-size:15px; margin-bottom:6px; }
-#contactanos .aviso-formulario{ color:white; margin:10px 0 0; }
-footer a{ color:white; }
-footer .columna-25{ padding-left:15px; padding-right:15px; }
-#inicio, #nosotros, #servicios, #galeria, #contactanos { scroll-margin-top: 70px; }
